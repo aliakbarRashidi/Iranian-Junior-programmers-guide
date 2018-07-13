@@ -13,3 +13,10 @@
 
 ## مطالبی برای شروع و انتخاب هدف 
 [چه زبان برنامه نویسی ای را برای یادگیری انتخاب کنم؟](https://alihesari.com/farsi/what-language-to-start-programming/)
+
+## کانال ها و گروه های تلگرامی
+لیستی از کانال های و گروه های تلگرامی که در زمینه برنامه نویسی فعالیت می کنند.
+لطفا اگر کانال و گروه فعالی می شناسید ارسال کنید تا به لیست اضافه شود.
+
+- [Telegram Channels](Telegram-channels.md)
+- [Telegram Groups](Telegram-groups.md)

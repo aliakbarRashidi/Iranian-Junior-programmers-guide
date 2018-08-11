@@ -15,6 +15,7 @@
 
 - [چه زبان برنامه نویسی ای را برای یادگیری انتخاب کنم؟](https://alihesari.com/farsi/what-language-to-start-programming/)
 - [چطور و از کجا باید برنامه‌نویسی را شروع کنیم؟](https://www.digikala.com/mag/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86%D9%88%DB%8C%D8%B3%DB%8C/)
+- [شروعی برای برنامه نویس وب شدن](https://alihesari.com/farsi/web-programming/)
 
 ## وب سایت هایی آموزشی
 لیستی از وب سایت هایی که در زمینه آموزش برنامه نویسی فعالیت می کنند.
